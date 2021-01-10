@@ -37,7 +37,7 @@
     "http-status": "^1.0.1",
     "joi": "^13.1.2",
     "jsonwebtoken": "^8.1.1",
-    "mongoose": "^5.0.7",
+    "mongoose": "^5.11.10",
     "mongoose-error-handler": "^1.0.0",
     "morgan": "^1.9.0",
     "mustache": "^3.0.1",

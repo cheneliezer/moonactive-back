@@ -10,9 +10,4 @@ module.exports = {
     uri: process.env.MONGOURI,
     testURI: process.env.MONGOTESTURI
   },
-  transporter: {
-    service: process.env.TRANSPORTER_SERVICE,
-    email: process.env.TRANSPORTER_EMAIL,
-    password: process.env.TRANSPORTER_PASSWORD
-  }
 }
